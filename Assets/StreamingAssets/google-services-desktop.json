@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "483161268330",
+    "firebase_url": "https://unity-a5aa2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "unity-a5aa2",
+    "storage_bucket": "unity-a5aa2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483161268330:android:b7546146933a9079552a13",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FIREBASE"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_yrLRA7uUvwmUE5WX_Oo7kLXP2db0WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
