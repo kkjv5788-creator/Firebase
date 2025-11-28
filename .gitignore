@@ -97,3 +97,10 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+# -------------------------
+# Firebase Unity SDK (Git에 올리지 않기)
+# 필요한 경우 .unitypackage로 다시 Import 해서 복구
+# -------------------------
+Assets/Firebase/
+Assets/ExternalDependencyManager/
+Assets/PlayServicesResolver/
